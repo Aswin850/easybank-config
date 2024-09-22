@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Ashok Vishnu - QA Lead"
+    name: "Dr Ashok Vishnu - QA Lead"
     email: "ashok@eazybank.com"
   onCallSupport:
     - (91) -906-112-8914
